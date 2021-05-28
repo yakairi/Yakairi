@@ -8,9 +8,9 @@
 const yakairi = {
   pronouns: "she" | "her",
   code: [Javascript, CSS,, Python],
-  }
+ databases: [ "mySQL", "SQLServer"],
 ```
-
+currentOccupation: ["last year student, open for job opportunities"],
 <!--
 **yakairi/yakairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
