@@ -8,7 +8,7 @@
  ```javascript
 const yakairi = {
   pronouns: "she" | "her",
-  code: [Javascript, CSS, HTML, Python],
+  code: [Javascript, CSS, HTML, SQL y Python
   databases: [ "mySQL", "SQLServer"],
  }
  
